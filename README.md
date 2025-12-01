@@ -1,4 +1,4 @@
-📋 Task Board Application - Monolithic Architecture Lab
+#📋 Task Board Application - Monolithic Architecture Lab
 
 This project demonstrates the implementation of a simple Task Board (Kanban-style) application using a Monolithic Architecture for the ENGSE207 Software Architecture - Week 3 Lab That for the starter and the basic for the next week for more feature and many  more in coming, so this is a basic and test run.
 
@@ -14,7 +14,9 @@ Project Overview
 
 # Task Board - Monolithic Architecture
 
-## Features
+## Features and screenshot
+- Main website
+<img width="2559" height="1300" alt="image" src="https://github.com/user-attachments/assets/536e89af-0971-4388-9908-ab65c8546372" />
 - View all tasks
 - Create new task
 - Delete task
